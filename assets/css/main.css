@@ -1803,13 +1803,20 @@ p {
 
 /* Box */
 
+section{
+
+}
 	.box {
 		margin-bottom: 2rem;
 		background: #FFF;
+		margin-left:5.5rem;
+margin-right: 5.5rem !important;
 	}
 
 		.box .content {
 			padding: 3rem;
+			padding-left:5rem;
+			padding-right:5rem;
 		}
 
 		.box > :last-child,
