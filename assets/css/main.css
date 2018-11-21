@@ -1999,7 +1999,7 @@ p {
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #5AA6ED;
+			background-color: #ff4040;
 			color: #ffffff !important;
 		}
 
@@ -2008,7 +2008,8 @@ p {
 			input[type="button"].special:hover,
 			button.special:hover,
 			.button.special:hover {
-				background-color: #71b2f0;
+				background-color: #edb22a;
+				color: #06050f !important;
 			}
 
 			input[type="submit"].special:active,
